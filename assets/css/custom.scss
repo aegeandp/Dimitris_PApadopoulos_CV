@@ -1,0 +1,34 @@
+---
+---
+
+@import "minima";
+
+.cv-hero {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+.cv-hero .avatar {
+  width: 120px; height: 120px; border-radius: 50%;
+  object-fit: cover; border: 3px solid #eaeaea;
+}
+.cv-hero .subtitle { margin: .2rem 0 .4rem; color: #6b7280; }
+.cv-hero .meta a { color: #2563eb; }
+
+.badges { display: flex; flex-wrap: wrap; gap: 8px; }
+.badge {
+  background: #111827; color: #e5e7eb; border: 1px solid #1f2937;
+  padding: 6px 10px; border-radius: 999px; font-size: 0.9rem;
+}
+.badge.alt {
+  background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe;
+}
+
+.btn {
+  display: inline-block; padding: 8px 14px; border-radius: 10px;
+  background: #ef4444; color: #fff !important; text-decoration: none;
+  font-weight: 600;
+}
+.btn:hover { background: #dc2626; }
