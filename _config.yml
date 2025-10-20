@@ -18,3 +18,6 @@ author:
 # Minima options
 minima:
   skin: auto
+  include_assets:
+    - assets/css/custom.scss
+
