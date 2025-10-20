@@ -25,17 +25,17 @@ permalink: /
 Maritime officer and systems engineer with extensive experience in naval aviation, shipboard IoT, and integrated sensor networks. Skilled in hardware/software integration, data acquisition, and secure communications (radar, sonar, GPS, AIS, NMEA). Proven record in designing and implementing real-time telemetry and tactical systems for Hellenic Navy platforms, combining operational leadership with advanced IT and distributed systems expertise.
 
 ## Highlights
-- Led safety-critical operations with consistent compliance to ISM/ISPS/IMO requirements.
-- Coordinated multi-party stakeholders (crew, port authorities, suppliers) under tight schedules.
-- Streamlined documentation and reporting flows; improved response times and data accuracy.
+- Led the integration of advanced navigation and communication systems (Radar, Sonar, AIS, GPS, NMEA) into Hellenic Navy platforms, ensuring real-time interoperability and data accuracy.
+- Designed and deployed IoT-based telemetry and monitoring frameworks for shipboard and aviation operations, enhancing situational awareness and predictive maintenance.
+- Combined strong maritime operations background with distributed systems and computer engineering expertise to optimize performance, safety, and decision-making under demanding conditions.
 
 ## Hard Skills
 <div class="badges">
   <span class="badge">Maritime Operations</span>
   <span class="badge">Safety Management (ISM/ISPS)</span>
   <span class="badge">Integrated Systems</span>
-  <span class="badge">Documentation & Reporting</span>
-  <span class="badge">MS Office / PowerPoint</span>
+  <span class="badge">Telemetry & Data Acquisition</span>
+  <span class="badge">Systems Integration & Troubleshooting</span>
   <span class="badge">GIS / Maps (concepts)</span>
 </div>
 
@@ -44,35 +44,26 @@ Maritime officer and systems engineer with extensive experience in naval aviatio
   <span class="badge alt">Team Leadership</span>
   <span class="badge alt">Communication</span>
   <span class="badge alt">Problem Solving</span>
-  <span class="badge alt">Time Management</span>
+  <span class="badge alt">Analytical Thinking</span>
   <span class="badge alt">Adaptability</span>
-  <span class="badge alt">Attention to Detail</span>
+  <span class="badge alt">Strategic Planning & Decision-Making</span>
 </div>
 
 ## Professional Experience
 **Role — Company / Vessel (Dates)**  
-Short description (1–2 lines).  
-- Action/result bullet with metric if possible (e.g., “Reduced turnaround time by 15% …”).  
-- Compliance/quality bullet (e.g., “Maintained zero-incident record …”).  
-
-**Role — Company / Vessel (Dates)**  
-Short description.  
-- Bullet 1  
-- Bullet 2
-
-*(Add more roles as needed; keep each role to 3–5 focused bullets.)*
+- Bla Bla Bla  
+- Bla Bla Bla  
 
 ## Education
 **[Institution] — Degree (Year)**  
-Key modules/courses relevant to operations, safety, and systems.
+Bla Bla Bla  
 
 ## Certifications
-- [Certification / License] — [Issuer], [Year]  
-- [Certification / License] — [Issuer], [Year]
+Bla Bla Bla  
 
 ## Languages
 - Greek — Native  
-- English — C1 (or your exact level)
+- English — C2 (or your exact level)
 
 ## References
 Available upon request.
