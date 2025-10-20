@@ -1,3 +1,5 @@
+<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile" width="120" style="border-radius:50%">
+
 title: "Dimitris Papadopoulos"
 description: "CV • Χάρτες, HCI & Διάχυτη διάδραση"
 theme: minima
