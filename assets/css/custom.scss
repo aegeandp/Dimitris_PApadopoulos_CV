@@ -1,26 +1,23 @@
----
----
-
-@import "minima";
-
 .cv-hero {
   display: grid;
   grid-template-columns: 120px 1fr;
   gap: 16px;
   align-items: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.2rem;
 }
 .cv-hero .avatar {
   width: 120px; height: 120px; border-radius: 50%;
   object-fit: cover; border: 3px solid #eaeaea;
 }
-.cv-hero .subtitle { margin: .2rem 0 .4rem; color: #6b7280; }
-.cv-hero .meta a { color: #2563eb; }
+.cv-name { margin: 0 0 .1rem; }
+.subtitle { margin: .15rem 0 .4rem; color: #6b7280; }
+.meta a { color: #2563eb; text-decoration: none; }
+.meta a:hover { text-decoration: underline; }
 
-.badges { display: flex; flex-wrap: wrap; gap: 8px; }
+.badges { display: flex; flex-wrap: wrap; gap: 8px; margin: .4rem 0 1rem; }
 .badge {
   background: #111827; color: #e5e7eb; border: 1px solid #1f2937;
-  padding: 6px 10px; border-radius: 999px; font-size: 0.9rem;
+  padding: 6px 10px; border-radius: 999px; font-size: 0.92rem;
 }
 .badge.alt {
   background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe;
@@ -32,3 +29,8 @@
   font-weight: 600;
 }
 .btn:hover { background: #dc2626; }
+
+@media (max-width: 520px) {
+  .cv-hero { grid-template-columns: 1fr; text-align: center; }
+  .cv-hero .avatar { margin: 0 auto; }
+}
