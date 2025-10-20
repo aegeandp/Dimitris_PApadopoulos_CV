@@ -22,7 +22,7 @@ permalink: /
 </div>
 
 ## Profile
-Concise 3–4 sentence summary of your maritime background, safety & operations experience, and integrated systems expertise. Mention leadership, cross-functional communication, and results in demanding environments.
+Maritime officer and systems engineer with extensive experience in naval aviation, shipboard IoT, and integrated sensor networks. Skilled in hardware/software integration, data acquisition, and secure communications (radar, sonar, GPS, AIS, NMEA). Proven record in designing and implementing real-time telemetry and tactical systems for Hellenic Navy platforms, combining operational leadership with advanced IT and distributed systems expertise.
 
 ## Highlights
 - Led safety-critical operations with consistent compliance to ISM/ISPS/IMO requirements.
