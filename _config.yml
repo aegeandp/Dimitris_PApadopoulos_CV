@@ -1,25 +1,13 @@
-<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile" width="120" style="border-radius:50%">
-
 title: "Dimitris Papadopoulos"
-description: "CV • Χάρτες, HCI & Διάχυτη διάδραση"
+description: "Professional CV"
 theme: minima
 
-# ΓΙΑ PROJECT SITE (όχι user site):
+# Project site (not user/org):
 url: "https://aegeandp.github.io"
 baseurl: "/Dimitris_PApadopoulos_CV"
 
-# Μενού κεφαλίδας
 header_pages:
   - cv.md
 
-# Στοιχεία επικοινωνίας (για εμφάνιση στο footer)
-author:
-  name: "Dimitris Papadopoulos"
-  email: "d.papadopouloshn@gmail.com"
-
-# Minima options
 minima:
   skin: auto
-  include_assets:
-    - assets/css/custom.scss
-
