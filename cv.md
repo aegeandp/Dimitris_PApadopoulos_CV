@@ -7,7 +7,7 @@ permalink: /cv/
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <div class="cv-hero">
-  <img class="avatar" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo of Dimitris Papadopoulos">
+  <img class="avatar" src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile photo of Dimitris Papadopoulos">
   <div>
     <h1 class="cv-name">Dimitris Papadopoulos</h1>
     <p class="subtitle">Maritime Professional • Safety & Operations • Integrated Systems</p>
